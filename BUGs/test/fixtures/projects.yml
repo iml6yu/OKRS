@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  ProjectName: MyString
+  CreateDate: 2015-01-30
+  PlantOverDate: 2015-01-30
+  PlantCost: 9.99
+
+two:
+  ProjectName: MyString
+  CreateDate: 2015-01-30
+  PlantOverDate: 2015-01-30
+  PlantCost: 9.99

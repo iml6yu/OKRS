@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  Discribe: MyText
+  BugType: 1
+  BugState: 1
+  CreateDate: 2015-01-30 16:54:33
+  PlantOverDate: 2015-01-30 16:54:33
+  Schedule: 1
+  CreateUserID: 1
+  CreateUserNiceName: MyString
+
+two:
+  Discribe: MyText
+  BugType: 1
+  BugState: 1
+  CreateDate: 2015-01-30 16:54:33
+  PlantOverDate: 2015-01-30 16:54:33
+  Schedule: 1
+  CreateUserID: 1
+  CreateUserNiceName: MyString

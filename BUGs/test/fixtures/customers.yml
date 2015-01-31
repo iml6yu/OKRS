@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  ULoginAccount: MyString
+  UPassWord: MyString
+  UEmail: MyString
+
+two:
+  ULoginAccount: MyString
+  UPassWord: MyString
+  UEmail: MyString

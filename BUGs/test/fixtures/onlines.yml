@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  NiceName: MyString
+  Sex: MyString
+  IsOnline: false
+  OnlineTime: 1
+  LastOnlineTime: 2015-01-30 16:37:10
+  IP: MyString
+
+two:
+  NiceName: MyString
+  Sex: MyString
+  IsOnline: false
+  OnlineTime: 1
+  LastOnlineTime: 2015-01-30 16:37:10
+  IP: MyString

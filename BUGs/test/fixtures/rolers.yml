@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  Discribe: MyString
+  KeyCode: MyString
+  Inherit: false
+
+two:
+  Discribe: MyString
+  KeyCode: MyString
+  Inherit: false
