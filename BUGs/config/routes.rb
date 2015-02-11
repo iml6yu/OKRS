@@ -1,4 +1,14 @@
 BUGs::Application.routes.draw do
+  get "login" => "user_operate#login"
+  get "logout" => "user_operate#logout"
+  get "sigin" => "user_operate#sigin"
+  get "update" => "user_operate#find"
+  get "new" => "user_operate#find"
+  post "login" => "user_operate#login"
+  post "logout" => "user_operate#logout"
+  post "sigin" => "user_operate#sigin"
+  post "update" => "user_operate#modify"
+  post "new" => "user_operate#add"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
@@ -53,4 +63,5 @@ BUGs::Application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+  #TODO config
 end
